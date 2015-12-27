@@ -4,7 +4,7 @@
 //
 //  Created by Sebastiaan Bradwolff on 24-12-15.
 //  Copyright (c) 2015 Sebastiaan Bradwolff. All rights reserved.
-//
+//  Testcomment for github
 
 import SpriteKit
 
